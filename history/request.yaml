@@ -1,5 +1,5 @@
-data_ready: true
+data_ready: false
 data_stream: RS01SLBS-LJ01A-10-ADCPTE101-streamed-adcp_velocity_beam
-last_request: '2022-01-21T19:21:18.891169Z'
+last_request: '2022-02-07T18:39:21.453968Z'
 response: https://raw.githubusercontent.com/ooi-data/RS01SLBS-LJ01A-10-ADCPTE101-streamed-adcp_velocity_beam/main/history/response.json
-status: success
+status: pending
