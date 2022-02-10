@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/RS01SLBS-LJ01A-10-ADCPTE101-streamed-adcp_velocity_beam
 data_stream: RS01SLBS-LJ01A-10-ADCPTE101-streamed-adcp_velocity_beam
-end_date: '2022-01-01T01:13:15.225Z'
-last_updated: '2022-01-22T23:10:22.077754'
+end_date: '2022-02-07T18:39:09.213Z'
+last_updated: '2022-02-10T10:48:54.659808Z'
 start_date: '2014-08-28T15:08:16.480Z'
-status: success
+status: pending
